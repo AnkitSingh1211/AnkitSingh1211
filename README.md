@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Data Scientist | Machine Learning Enthusiast**
 
-I am passionate about leveraging data to drive impactful solutions. As an enthusiastic learner, I am eager to apply my knowledge in **Data Science, Machine Learning, and Data Visualization** to real-world problems. I enjoy exploring structured and unstructured data to uncover meaningful insights.  
+I am passionate about leveraging data to drive impactful solutions. As an enthusiastic learner, I am eager to apply my knowledge in **Data Science, Machine Learning, Data Analysis and Data Visualization** to real-world problems. I enjoy exploring structured and unstructured data to uncover meaningful insights.  
 
 ### 🔧 Technologies & Tools:
 
