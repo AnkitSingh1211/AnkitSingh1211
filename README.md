@@ -27,9 +27,9 @@ I am passionate about leveraging data to drive impactful solutions. As an enthus
 
 ### 📊 GitHub Stats:
 📈 **My GitHub Performance**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![GitHub Stats]([https://github.com/AnkitSingh1211/AnkitSingh1211])  
 💡 **Languages I Use Most**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages]([https://github.com/AnkitSingh1211/AnkitSingh1211])
 
 ### 📫 Connect with Me:
 🌍 Let's Connect & Learn Together!  
