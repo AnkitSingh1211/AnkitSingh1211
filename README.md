@@ -25,15 +25,16 @@ I am passionate about leveraging data to drive impactful solutions. As an enthus
 - Enthusiastic about various **ML Algorithms** (Supervised & Unsupervised Learning)
 - Continuously learning **model training, evaluation, and optimization**
 
-### 📊 GitHub Stats:
-📈 **My GitHub Performance**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkitSingh1211&show_icons=true&theme=tokyonight)
-  
-💡 **Languages I Use Most**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSingh1211&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats  
+<div align="center">
 
-🔥 **GitHub Streak** 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnkitSingh1211&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=AnkitSingh1211&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSingh1211&layout=compact&theme=tokyonight" width="48%" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSingh1211&theme=tokyonight" width="98%" alt="GitHub Streak"/>
+
+</div>
+
 
 
 ### 📫 Connect with Me:
