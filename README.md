@@ -33,8 +33,8 @@ I am passionate about leveraging data to drive impactful solutions. As an enthus
 
 ### 📫 Connect with Me:
 🌍 Let's Connect & Learn Together!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ankit-singh-29334b253/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ankitsinghrajpoot65@gmail.com)
 
 ---
 🎯 *Eager to collaborate and grow in the fields of Data Science, Machine Learning, and AI.* Let's build something amazing together! 🚀
