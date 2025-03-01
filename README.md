@@ -15,7 +15,7 @@ I am passionate about leveraging data to drive impactful solutions. As an enthus
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-- ![Knime Analytics](https://img.shields.io/badge/%20by-KNIME-yellow?style=for-the-badge&logo=knime)
+- ![Knime Analytics](https://img.shields.io/badge/KNIME-yellow?style=for-the-badge&logo=knime)
 
 
 #### **Data Visualization:**
